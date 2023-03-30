@@ -11,3 +11,7 @@ list = ["apple", "banana", "cherry"]
 print(list)
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
+
+dict = {
+    "key": "value"
+}
